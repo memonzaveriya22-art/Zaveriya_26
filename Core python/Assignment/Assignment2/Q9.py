@@ -1,0 +1,12 @@
+# Q9 write a program to swap two number without using third variable.
+
+x=12
+y=13
+
+x, y = y, x
+print('the value of x is ',x)
+print('the value of y is ',y)
+
+
+
+
